@@ -1,6 +1,6 @@
 When you're just starting out with Linux, it's easy to get <simplePastVerb>.
 
-You probably <rootVerb> only Windows, but now you want to <rootVerb> Linux because you <simplePastVerb> that Linux is better than Windows as it's more <descriptiveAdjective> and you don't have to <rootVerb> a(n) <singularNoun> to <rootVerb> Linux.
+You probably <rootVerb> only Windows, but now you want to <rootVerb> Linux because you read that Linux is better than Windows as it's more <descriptiveAdjective> and you don't have to <rootVerb> a(n) <singularNoun> to <rootVerb> Linux.
 
 But then when you go about <presentParticipleVerb> and <presentParticipleVerb> Linux, you learn that Linux is not a single entity. There's <properNoun>, <properNoun>, <properNoun>, <properNoun> and hundreds of other 'Linux variants'. The trouble is that some of them look just like the others.
 

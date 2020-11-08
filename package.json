@@ -29,6 +29,7 @@
     "fastify-plugin": "^3.0.0",
     "fastify-static": "^3.3.0",
     "handlebars": "^4.7.6",
+    "madlibs-template-parser": "^0.1.1",
     "point-of-view": "^4.6.0"
   },
   "devDependencies": {
