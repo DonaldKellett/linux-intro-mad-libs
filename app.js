@@ -5,6 +5,7 @@ const AutoLoad = require('fastify-autoload')
 const pointOfView = require('point-of-view')
 const handlebars = require('handlebars')
 const fastifyStatic = require('fastify-static')
+const formbody = require('fastify-formbody')
 
 module.exports = async function (fastify, opts) {
   // Place here your custom code!
@@ -15,6 +16,7 @@ module.exports = async function (fastify, opts) {
   fastify.register(fastifyStatic, {
     root: path.join(__dirname, 'public')
   })
+  fastify.register(formbody)
 
   // Do not touch the following lines
 
