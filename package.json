@@ -1,0 +1,37 @@
+{
+  "name": "linux-intro-mad-libs",
+  "version": "1.0.0",
+  "description": "Mad Libs respin of \"What is Linux and Why There are 100's of Linux Distributions?\" by It's FOSS",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap test/**/*.test.js",
+    "start": "fastify start -l info app.js",
+    "dev": "fastify start -w -l info -P app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonaldKellett/linux-intro-mad-libs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonaldKellett/linux-intro-mad-libs/issues"
+  },
+  "homepage": "https://github.com/DonaldKellett/linux-intro-mad-libs#readme",
+  "dependencies": {
+    "fastify": "^3.0.0",
+    "fastify-autoload": "^3.0.2",
+    "fastify-cli": "^2.5.1",
+    "fastify-plugin": "^3.0.0",
+    "fastify-static": "^3.3.0",
+    "handlebars": "^4.7.6",
+    "point-of-view": "^4.6.0"
+  },
+  "devDependencies": {
+    "tap": "^14.0.0"
+  }
+}
